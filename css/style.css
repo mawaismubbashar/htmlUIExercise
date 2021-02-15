@@ -12,7 +12,6 @@
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  
 }
 
 .topnav .right {
@@ -43,7 +42,7 @@ a.right {
   font-weight: bold;
 }
 
-.startBootstrap { 
+.startBootstrap {
   background-color:#1abc9c;
 }
 
@@ -264,7 +263,7 @@ a.right {
 	.topnav .right {
 		font-size: 1rem;
 	}
-	
+
 	.textBootrap > h1 {
 		font-size: 2.8rem;
 	}
@@ -323,7 +322,7 @@ a.right {
 
 	.in {
 		width: 90%;
-	} 
+	}
 
 	.flexContainer {
 		display: flex;
@@ -402,7 +401,7 @@ a.right {
 	.textBootrap > h4 {
 		font-size: 0.9rem;
 	}
-	
+
 	.startBootstrap > img{
 		width: 14rem;
 	}
@@ -450,7 +449,7 @@ a.right {
 	}
 
 	.formBtn {
-		font-size: 0.7rem;	
+		font-size: 0.7rem;
 	}
 
 	.section > h1 {
